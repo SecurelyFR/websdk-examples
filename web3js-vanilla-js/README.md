@@ -1,4 +1,4 @@
-# Securely example frontend using Web3
+# Securely example frontend using Web3.js
 
 ## Run the frontend
 ```bash

@@ -1,4 +1,4 @@
-# Securely example frontend using ethers JS
+# Securely example frontend using ethers.js
 
 ## Run the frontend
 ```bash
